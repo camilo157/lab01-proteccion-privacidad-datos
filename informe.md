@@ -1,8 +1,8 @@
     # LAB-01: Protección y privacidad de datos
 
-Camilo Angulo
-Gestión de Seguridad y Desempeño de Bases de Datos
-PostgreSQL 16 en Docker, 17 de octubre de 2026
+- Estudiante: Camilo Angulo
+- Materia: Gestión de Seguridad y Desempeño de Bases de Datos
+- Motor: PostgreSQL 16 en Docker, 17 de octubre de 2026
 
 Los scripts están en la carpeta sql y las capturas en evidencias. Corrí los scripts en orden con psql dentro del contenedor pg-lab01.
 
