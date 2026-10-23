@@ -2,6 +2,7 @@
 
 Laboratorio de la materia Gestión de Seguridad y Desempeño de Bases de Datos (Unidad II, tema 2.3).
 
+- Profesor: Alexis Moises Montaño Araujo
 - Estudiante: Camilo Angulo
 - Materia: Gestión de Seguridad y Desempeño de Bases de Datos
 - Motor: PostgreSQL 16 en Docker, 17 de octubre de 2026
